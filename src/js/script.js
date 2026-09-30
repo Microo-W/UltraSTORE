@@ -1,8 +1,8 @@
 // Array de imagens
 let imagens = [
-    "./src/assets/carro1.jpeg",
-    "./src/assets/carro2.jpeg",
-    "./src/assets/carro3.jpeg"
+    "./src/assets/BloodIsFuel.jpg",
+    "./src/assets/CyberGrind.jpg",
+    "./src/assets/ULTRAKILL.jpg"
 ];
 
 // Posição inicial das imagens
